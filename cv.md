@@ -17,4 +17,4 @@
  Sevastopol National Technical University,  2004
 ## **English**
 
-**A0**
+A0
